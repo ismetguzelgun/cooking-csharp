@@ -1,0 +1,13 @@
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache

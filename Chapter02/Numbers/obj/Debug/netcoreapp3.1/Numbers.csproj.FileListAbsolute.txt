@@ -1,0 +1,13 @@
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\ismet\OneDrive\Desktop\SampleCode\cooking-csharp\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
